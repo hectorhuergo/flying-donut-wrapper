@@ -1,0 +1,110 @@
+─ 0
+│─ _id
+││─ $oid: 58b1d0e0e4b.............
+│─ version: 29
+│─ project
+││─ value
+│││─ $oid: 5888f053e4.............
+││─ version: 0
+│─ title
+││─ value: Desarrollo  PM 2017
+││─ version: 1
+│─ startDate
+││─ value
+│││─ $date: 2017-03-01T13:00:00.000Z
+││─ version: 0
+│─ endDate
+││─ value
+│││─ $date: 2017-03-08T21:00:59.999Z
+││─ version: 0
+│─ summary
+││─ value
+│││─ markdown: Tareas de modelado y desarrollo de la solución de integración.
+│││─ html: <p>Tareas de modelado y desarrollo de la solución de integración.</p>
+││─ version: 1
+│─ estimate
+││─ value: 0
+││─ version: 8
+│─ taskEstimate
+││─ value: 
+││─ version: 8
+│─ taskCounters
+││─ value
+│││─ done: 0
+│││─ todo: 19
+│││─ inProgress: 0
+│││─ total: 19
+││─ version: 10
+│─ itemCounters
+││─ value
+│││─ done: 0
+│││─ todo: 4
+│││─ inProgress: 0
+│││─ total: 4
+│││─ status: todo
+││─ version: 10
+│─ milestone
+││─ value
+│││─ $oid: 58b1d6b4e4b.............
+││─ version: 1
+│─ _order: 0
+│─ isFuture: 1
+│─ isActive: 
+│─ isPast: 
+
+─ 1
+│─ _id
+││─ $oid: 58b1d680e4b0.............
+│─ version: 15
+│─ project
+││─ value
+│││─ $oid: 5888f053e4b0.............
+││─ version: 0
+│─ title
+││─ value: Implementación  PM 2017
+││─ version: 0
+│─ startDate
+││─ value
+│││─ $date: 2017-03-09T12:00:00.000Z
+││─ version: 0
+│─ endDate
+││─ value
+│││─ $date: 2017-03-14T20:00:59.000Z
+││─ version: 1
+│─ summary
+││─ value
+│││─ markdown: Tareas de implementación y capacitación del personal en uso de sistema de Empaque.
+│││─ html: <p>Tareas de implementación y capacitación del personal en uso de sistema de Empaque.</p>
+││─ version: 1
+│─ estimate
+││─ value: 0
+││─ version: 3
+│─ taskEstimate
+││─ value: 
+││─ version: 2
+│─ taskCounters
+││─ value
+│││─ done: 0
+│││─ todo: 2
+│││─ inProgress: 0
+│││─ total: 2
+││─ version: 2
+│─ itemCounters
+││─ value
+│││─ done: 0
+│││─ todo: 1
+│││─ inProgress: 0
+│││─ total: 2
+│││─ status: todo
+││─ version: 2
+│─ milestone
+││─ value
+│││─ $oid: 58b1d6d1e4b06.............
+││─ version: 5
+│─ nonWorkingDays
+││─ value
+││─ version: 1
+│─ _order: 1
+│─ isFuture: 1
+│─ isActive: 
+│─ isPast: 
